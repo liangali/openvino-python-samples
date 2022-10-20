@@ -1,0 +1,11 @@
+out
+crop
+encode
+.vscode
+
+ref/*
+!ref/blank.txt
+.bin
+.xml
+*.mapping
+*.pyc

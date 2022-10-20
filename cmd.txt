@@ -1,0 +1,3 @@
+setup env to run openvino inference
+
+"C:\Program Files (x86)\IntelSWTools\openvino_2020.4.287\bin\setupvars.bat"
